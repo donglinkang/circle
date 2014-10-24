@@ -5,7 +5,7 @@
 <div class="wrapper">
  
   <header class="headBox">
-    <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
+    <a id="androidAppJump" href="javascript:history.go(-1);" class="black"><i></i>返回</a>
     <div class="title">购物车</div>
   </header><!--.headBox end//-->
   
@@ -25,6 +25,11 @@
         <dt>ONLY秋装显瘦低腰牛仔裤女长裤小脚裤铅笔裤子T|113332066</dt>
         <dd><span class="sp2">￥249.50</span>x<span class="sp1"><input class="input2" type="text" value="1"></span></dd>
       </dl>
+      <div class="beiz">备注<textarea name="" rows="" cols="" placeholder="给TA留言"></textarea></div>
+      <div class="cst-settle">
+        <label>合计(不含运费):<span class="sp1">￥499.00</span></label><a class="sp2" href="shopOrdar.php"><span>结算(2)</span></a>
+	  </div>
+      
       <div class="title"><i></i>Only厦门SM店</div>
       <dl>
         <input class="input1" type="checkbox" name="">
@@ -32,7 +37,10 @@
         <dt>ONLY2014秋新帅气拉链山羊皮衣外套夹克女T|114310017</dt>
         <dd><span class="sp2">￥2499.00</span>x<span class="sp1"><input class="input2" type="text" value="1"></span></dd>
       </dl>
-      <div class="beiz">备注<textarea name="" rows="" cols="" placeholder="给企业留言"></textarea></div>
+      <div class="beiz">备注<textarea name="" rows="" cols="" placeholder="给TA留言"></textarea></div>
+      <div class="cst-settle">
+        <label>合计(不含运费):<span class="sp1">￥2499.00</span></label><a class="sp2" href="shopOrdar.php"><span>结算(1)</span></a>
+	  </div>
       </div><!--.shopCart end//-->
 	</div>
     <!--.cst-shoppingCart end//-->
@@ -43,10 +51,6 @@
         <li class="info"><a href="my_add.php" title=""><p><span class="sp3">张大千</span>13859986561</p><p>福建省厦门市湖里区枋湖南路161</p><i></i></a></li>
       </ul>
 	</div><!--.cst-consignee end//-->
-    
-    <div class="cst-settle">
-      <label>合计(不含运费):<span class="sp1">￥2998.00</span></label><a href="shopOrdar.php"><span class="sp2">结算(2)</span></a>
-	</div>
   
   <?php include_once "copyright.php"; ?>
   

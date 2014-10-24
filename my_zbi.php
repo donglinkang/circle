@@ -5,7 +5,7 @@
 <div class="wrapper" style="padding-bottom:1px;">
  
  <header class="headBox">
-    <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
+    <a id="androidAppJump" href="javascript:history.go(-1);" class="black"><i></i>返回</a>
     <div class="title">我的指币</div>
   </header><!--.headBox end//-->
   
@@ -20,7 +20,7 @@
     <ul class="bbx_zhibi">
       <li><a href="my_bbx_cz.php"><i></i><span>充值</span></a></li>
       <li><a href="my_bbx_tixian.php"><i></i><span>提现</span></a></li>
-      <li><a href="my_huangou2.php"><i></i><span>换购</span></a></li>
+      <li><a href="target_prod2.php"><i></i><span>换购</span></a></li>
     </ul>
     <div class="bbx_buts">
       <span><a href="my_bbx_zbph.php">查看排行</a></span><span><a href="my_bbx_zb_big.php">查看明细</a></span><span><a href="renwu.php">赚指币</a></span>
@@ -28,6 +28,10 @@
     <!--.bbx_buts end//-->
   </div>
   <!--.my_bbx_box end//-->
+  
+  <div class="bbx_zhao"><a href="my_pyhk.php"><span>我的银行卡</span><span>2张</span></a></div>
+  
+  <div class="bbx_zhao"><a href="my_pay.php"><span>我的支付宝</span></a></div>
   
   <?php include_once "copyright.php"; ?>
   

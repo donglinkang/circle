@@ -24,9 +24,9 @@
     <div class="cont"><textarea name="" cols="" rows="" placeholder="来了就说两句吧..."></textarea></div>
     <div class="upImg">
       <ul>
-        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr.jpg"></li>
-        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr2.jpg"></li>
-        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr3.jpg"></li>
+        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr4.jpg"></li>
+        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr5.jpg"></li>
+        <li><a href="###" class="close"><i></i></a><img src="temp/jlb_pr6.jpg"></li>
         <li class="jiaImg"><a href="#"><i>+</i></a></li>
       </ul>
     </div>

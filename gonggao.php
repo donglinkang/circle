@@ -38,7 +38,7 @@
       <li class="curr"><a href="renwu.php"><i class="i1"></i><span>指帮</span></a></li>
       <li><a href="my_bbx.php"><i class="i4"></i><span>指友</span></a></li>
       <li><a href="shop.php"><i class="i3"></i><span>指店</span></a></li>
-      <!--<li><a href="my_zhimei.php"><i class="i4"></i><span>指媒</span></a></li>-->
+      <!--<li><a href="my_zhimei.php"><i class="i4"></i><span>指帮</span></a></li>-->
       <li><a href="my.php"><i class="i5"></i><span>我</span></a></li>
     </ul>
   </footer>

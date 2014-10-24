@@ -5,53 +5,47 @@
 <div class="wrapper">
  
   <header class="headBox">
-    <section class="my_tabbtn">
-      <ul>
-        <li class="current"><a href="javascript:void(0)">指友的店</a></li>
-        <li><a href="zhidian_open.php">我的指店</a></li>
-      </ul>
-    </section>
-    <a href="zhidian_list.php" class="jia">加号</a>
+    <!-- <a href="javascript:(0);" class="sousuo">搜索</a> -->
+    <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
+    <div class="title">指店</div>
+    <!-- <a href="javascript:open_ov_cdd()" class="fenxiang">分享</a> -->
+    <?php include_once "menu.php"; ?>
   </header><!--.headBox end//-->
   
-  <section class="my_finger_shop">
-    <div class="user_t">
-      <a href="fr_zhidian.php">
-      <div class="head_img"><img src="temp/q_z05.jpg"></div>
-      <div class="mzh_con">
-        <div class="h_na"><strong>林木森</strong><span>0005号店</span></div>
-        <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
-      </div>
-      </a>
+  <div class="my_zhid_head">
+    <div class="ssdp"><a href="zhidian_info.php" class="zdjj">指店简介</a></div>
+    <div class="head_img"><img src="temp/q_z05.jpg"></div>
+    <div class="mzh_con">
+      <div><strong>涂达敏的指店</strong><!-- <span>0005号店</span> --><i class="ico-q">企</i><i class="ico-m0">盟</i><!-- <i class="ico-m">盟</i> --></div>
+      <div><span class="i_dj">等级：</span><div class="stars fl"><i style="width:50%;"></i></div></div>
+      <div><a href="shop_map.php"><i class="map"></i>厦门万达店</a><a href="tel:05925256528"><i class="tel"></i>拨打电话</a></div>
     </div>
-    <article>新品上架<span><a href="javascript:void(0)"><i></i>已关注</a></span></article>
+  </div>
+  
+  <section class="my_tabbtn2">
     <ul>
-      <li>
-        <a href="my_shop_new.php">
-          <span><img src="temp/tn_01.jpg"></span>
-          <span><img src="temp/tn_02.jpg"></span>
-          <span><img src="temp/tn_03.jpg"></span>
-          <span><img src="temp/tn_04.jpg"></span>
-          <span><img src="temp/tn_06.jpg"></span>
-          <span><img src="temp/tn_05.jpg"></span>
-        </a>
-      </li>
-      <p><span>奢华质感的皮草是每位女性的挚爱，能打造出强大的气场，我们将皮革大胆富有新意的结合...</span><a href="my_shop_new.php"><b>全部新品</b></a></p>
+      <li class="current"><a href="javascript:void(0)">指店</a></li>
+      <!--<li><a href="javascript:void(0)">换购</a></li>-->
+      <li><a href="shop_lm.php">联盟</a></li>
+      <!--<li><a href="javascript:void(0)">活动</a></li>
+      <li><a href="javascript:void(0)">任务</a></li>-->
     </ul>
   </section>
-  <!--.my_finger_shop end//-->
   
+  <div>
+  
+  <div>
+  <!--焦点图 begin-->
+  <div id="banner_box" class="shop_swipe" style="margin-bottom:-10px;">
+    <ul>
+      <li><a href="###"><img src="temp/t_12.jpg"></a></li>
+      <li><a href="###"><img src="temp/t_24.jpg"></a></li>
+    </ul>
+    <ol><li class="on"></li><li></li></ol>
+  </div>
+  <!--焦点图 end-->
   <section class="my_finger_shop">
-    <div class="user_t">
-      <a href="fr_zhidian.php">
-      <div class="head_img"><img src="temp/default_user_portrait.gif"></div>
-      <div class="mzh_con">
-        <div class="h_na"><strong>王子达</strong><span>0001号店</span></div>
-        <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
-      </div>
-      </a>
-    </div>
-    <article>内购福利<span><a href="javascript:void(0)"><i></i>已关注</a></span></article>
+    <article>内购福利<span>512人己关注<a href="javascript:void(0)"><i></i>已关注</a></span></article>
     <ul>
       <li>
         <a href="my_shop_ng.php">
@@ -69,16 +63,7 @@
   <!--.my_finger_shop end//-->
   
   <section class="my_finger_shop">
-    <div class="user_t">
-      <a href="fr_zhidian.php">
-      <div class="head_img"><img src="temp/q_z04.jpg"></div>
-      <div class="mzh_con">
-        <div class="h_na"><strong>王小二</strong><span>0003号店</span></div>
-        <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
-      </div>
-      </a>
-    </div>
-    <article>热卖精品<span><a href="javascript:void(0)"><i></i>已关注</a></span></article>
+    <article>热卖精品<span>512人己关注<a href="javascript:void(0)">+ 关注</a></span></article>
     <ul>
       <li>
         <a href="my_shop_njp.php">
@@ -94,6 +79,174 @@
     </ul>
   </section>
   <!--.my_finger_shop end//-->
+  
+  <section class="my_finger_shop">
+    <article>新品上架<span>512人己关注<a href="javascript:void(0)">+ 关注</a></span></article>
+    <ul>
+      <li>
+        <a href="my_shop_new.php">
+          <span><img src="temp/tn_01.jpg"></span>
+          <span><img src="temp/tn_02.jpg"></span>
+          <span><img src="temp/tn_03.jpg"></span>
+          <span><img src="temp/tn_04.jpg"></span>
+          <span><img src="temp/tn_06.jpg"></span>
+          <span><img src="temp/tn_05.jpg"></span>
+        </a>
+      </li>
+      <p><span>奢华质感的皮草是每位女性的挚爱，能打造出强大的气场，我们将皮革大胆富有新意的结合...</span><a href="my_shop_new.php"><b>全部新品</b></a></p>
+    </ul>
+  </section>
+  <!--.my_finger_shop end//-->
+  </div><!--指店 end//-->
+  
+  <!--<ul class="shop_prod_list" style="margin-top:-10px;">
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_07.jpg"></span>
+          <span><b>ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</b></span>
+          <span>249.50指币</span>
+        </a>
+      </li>
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_08.jpg"></span>
+          <span><b>ONLY秋装新品人字纹仿麂皮拼接修身夹克外套女E|113333014</b></span>
+          <span>249.50指币</span>
+        </a>
+      </li>
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_09.jpg"></span>
+          <span><b>5折ONLY秋装新品毛圈连帽休闲短款外套上女T|113333004</b></span>
+          <span>174.50指币</span>
+        </a>
+      </li>
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_10.jpg"></span>
+          <span><b>ONLY2014夏新新裤线前移修身舒适小脚SS牛仔长裤L|114132023</b></span>
+          <span>249.50指币</span>
+        </a>
+      </li>
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_11.jpg"></span>
+          <span><b>ONLY2014秋新修身舒适小脚SS牛仔裤长裤L|114149006</b></span>
+          <span>249.50指币</span>
+        </a>
+      </li>
+      <li>
+        <i class="popupM2"></i>
+        <a href="shop_show1.php">
+          <span><img src="temp/tn_12.jpg"></span>
+          <span><b>ONLY秋装显瘦低腰牛仔裤女长裤小脚裤铅笔裤子T|113332066</b></span>
+          <span>249.50指币</span>
+        </a>
+      </li>
+  </ul>-->
+  <!--换购 end//-->
+  
+  <!--<section>
+    <div class="my_zhid_head">
+      <div class="head_img"><img style="border:1px solid #ddd;" src="temp/t_19.jpg"></div>
+      <div class="mzh_con"><strong style="font-size:20px; display:block; line-height:50px;">BeLLE百丽联盟商圈</strong></div>
+      <div class="fc"></div>
+      <div style="line-height:20px; padding:10px 0; margin-bottom:-20px;">简介：BeLLE百丽追求不同的生活体验及生活经历：都市环境不断在变，时装潮流不断在变，生活内容不断在变，女人在一生中的角色不断在变...</div>
+    </div>
+    <div class="fx_prod_list">
+      <ul>
+        <a href="shop_lm.php">
+        <li><span><img src="temp/tn_01.jpg"></span></li>
+        <li><span><img src="temp/tn_02.jpg"></span></li>
+        <li><span><img src="temp/tn_03.jpg"></span></li>
+        <li><span><img src="temp/tn_04.jpg"></span></li>
+        </a>
+      </ul>
+    </div>
+    
+    <div class="my_zhid_head">
+      <div class="head_img"><img style="border:1px solid #ddd;" src="temp/t_20.jpg"></div>
+      <div class="mzh_con"><strong style="font-size:20px; display:block; line-height:50px;">香奈儿联盟商圈</strong></div>
+      <div class="fc"></div>
+      <div style="line-height:20px; padding:10px 0; margin-bottom:-20px;">简介：香奈儿一生都没有结婚，她创造伟大的时尚帝国，同时追求自己想要的生活。其本身就是女性自主最佳典范，也是最懂得感情乐趣的新时代女性...</div>
+    </div>
+    <div class="fx_prod_list">
+      <ul>
+        <a href="shop_lm.php">
+        <li><span><img src="temp/tn_01.jpg"></span></li>
+        <li><span><img src="temp/tn_02.jpg"></span></li>
+        <li><span><img src="temp/tn_03.jpg"></span></li>
+        <li><span><img src="temp/tn_04.jpg"></span></li>
+        </a>
+      </ul>
+    </div>
+    
+    <div class="my_zhid_head">
+      <div class="head_img"><img style="border:1px solid #ddd;" src="temp/t_21.jpg"></div>
+      <div class="mzh_con"><strong style="font-size:20px; display:block; line-height:50px;">雅诗兰黛联盟商圈</strong></div>
+      <div class="fc"></div>
+      <div style="line-height:20px; padding:10px 0; margin-bottom:-20px;">简介：雅诗兰黛夫人凭借着想“为每个女性带来美丽”的渴望创立了雅诗兰黛品牌，并于1946年成立了以她名字命名的公司，同时推出了她的第一款产品：由她当化学家的叔叔研发的一瓶护肤霜...</div>
+    </div>
+    <div class="fx_prod_list">
+      <ul>
+        <a href="shop_lm.php">
+        <li><span><img src="temp/tn_01.jpg"></span></li>
+        <li><span><img src="temp/tn_02.jpg"></span></li>
+        <li><span><img src="temp/tn_03.jpg"></span></li>
+        <li><span><img src="temp/tn_04.jpg"></span></li>
+        </a>
+      </ul>
+    </div>
+  </section>-->
+  <!--联盟商圈-->
+  
+  <!--<div>
+    <section class="zimeiti_cm margin10">
+      <div class="cab_box">
+        <ul>
+          <li class="cab_box_li"><a href="zhimei_big.php"><img src="temp/t_05.jpg"><span>ONLY 2014 秋季电影—尽享当下</span></a></li>
+          <li>
+            <a href="zhimei_big.php">
+              <dl>
+                <dd><h4>“色彩派对”ONLY丰盈唇彩系列</h4>2014-05-03</dd>
+                <dt><img src="temp/t_11.jpg"></dt>
+              </dl>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="test_list">
+        <div class="title"><span>ONLY来自欧洲的品牌</span><span>2323423人参与</span></div>
+        <div class="time">剩余: 1天15时55分</div>
+        <div class="img"><a href="ask.php"><span>参与测试问卷活动可获得<i class="red">500</i>积分奖励</span><img src="temp/t_22.jpg"></a></div>
+    </section>
+  </div>-->
+  <!--活动 end//-->
+  
+  <!--<div class="zbrw_box">
+    <div class="rw_list" style="margin-bottom:10px;">
+      <dl>
+        <dt><div>新手任务</div><div>完成次数</div><div>指币奖励</div><div>任务状态</div></dt>
+        <dd><div>安装应用</div><div></div><div>50指币</div><div><a class="rw_e">已完成</a></div></dd>
+        <dd><div>邀请好友</div><div><i>5</i>/10</div><div>100指币</div><div><a class="rw_d">进行中</a></div></dd>
+        <dd><div>参与回复</div><div><i>1</i>/3</div><div>30指币</div><div><a class="rw_s">接受任务</a></div></dd>
+
+        <dt><div>每日任务</div><div>完成次数</div><div>指币奖励</div><div>任务状态</div></dt>
+        <dd><div>签到</div><div><i>0</i>/1</div><div>10指币</div><div><a class="rw_s">我要签到</a></div></dd>
+        <dd><div>发布指帮</div><div><i>0</i>/3</div><div>50指币</div><div><a class="rw_s">接受任务</a></div></dd>
+        <dd><div>指帮回复</div><div><i>0</i>/3</div><div>30指币</div><div><a class="rw_s">接受任务</a></div></dd>
+      </dl>
+    </div>
+  </div>-->
+  <!--任务 end//-->
+  
+  </div>
   
   <?php include_once "copyright.php"; ?>
   
@@ -111,5 +264,6 @@
   </footer>
 </div>
 
+<?php include_once "share.php"; ?>
 </body>
 </html>

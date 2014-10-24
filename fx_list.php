@@ -24,9 +24,9 @@
       <section class="arrow-msg articleLink">
         <div class="reply_box">
           <div class="awshow">
-            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">终于等到你 Only生产履历</p>
+            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">ONLY 2014 秋季电影—尽享当下</p>
             <a href="zhimei_quan_big.php">
-            <p>日前，Only产品生产履历-全球新闻发布会圆满落下帷幕，两岸业内资深人士以及众多知名媒体云集厦门，共同见证了此次盛会的隆重举行。</p>
+            <p>尽享当下，果敢特立的态度让巴黎女人总能抓住生活中转瞬即逝的精彩，而更重要的是，她们懂得如何用时装延续自由之梦。</p>
             <ul class="picList">
               <li><img src="temp/t_05.jpg"></li>
               <li><img src="temp/t_05.jpg"></li>
@@ -39,7 +39,7 @@
       </section>
       <div class="zmtF">
         <ul>
-          <li>分享获得20积分</li>
+          <li>分享获得20指币</li>
           <li><a href="javascript:open_ov_cdd()"><span class="fot_i03"></span></a></li>
         </ul>
       </div>
@@ -57,9 +57,9 @@
       <section class="arrow-msg articleLink">
         <div class="reply_box">
           <div class="awshow">
-            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">终于等到你 Only生产履历</p>
+            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">ONLY 2014 秋季电影—尽享当下</p>
             <a href="zhimei_quan_big.php">
-            <p>日前，Only产品生产履历-全球新闻发布会圆满落下帷幕，两岸业内资深人士以及众多知名媒体云集厦门，共同见证了此次盛会的隆重举行。</p>
+            <p>尽享当下，果敢特立的态度让巴黎女人总能抓住生活中转瞬即逝的精彩，而更重要的是，她们懂得如何用时装延续自由之梦。</p>
             <ul class="picList">
               <li><img src="temp/t_05.jpg"></li>
               <li><img src="temp/t_05.jpg"></li>
@@ -72,7 +72,7 @@
       </section>
       <div class="zmtF">
         <ul>
-          <li>分享获得20积分</li>
+          <li>分享获得20指币</li>
           <li><a href="javascript:open_ov_cdd()"><span class="fot_i03"></span></a></li>
         </ul>
       </div>
@@ -90,9 +90,9 @@
       <section class="arrow-msg articleLink">
         <div class="reply_box">
           <div class="awshow">
-            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">终于等到你 Only生产履历</p>
+            <p style="font-size: 14px; font-weight:400; padding:10px 0 5px; color:#333;">ONLY 2014 秋季电影—尽享当下</p>
             <a href="zhimei_quan_big.php">
-            <p>日前，Only产品生产履历-全球新闻发布会圆满落下帷幕，两岸业内资深人士以及众多知名媒体云集厦门，共同见证了此次盛会的隆重举行。</p>
+            <p>尽享当下，果敢特立的态度让巴黎女人总能抓住生活中转瞬即逝的精彩，而更重要的是，她们懂得如何用时装延续自由之梦。</p>
             <ul class="picList">
               <li><img src="temp/t_05.jpg"></li>
               <li><img src="temp/t_05.jpg"></li>
@@ -105,7 +105,7 @@
       </section>
       <div class="zmtF">
         <ul>
-          <li>分享获得20积分</li>
+          <li>分享获得20指币</li>
           <li><a href="javascript:open_ov_cdd()"><span class="fot_i03"></span></a></li>
         </ul>
       </div>

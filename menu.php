@@ -2,11 +2,12 @@
 <div id="cn-wrapper">
   <ul class="main_menu">
     <i class="sanjiao"></i>
-    <li><a href="search.php"><i class="search"></i><span>搜索</span></a></li>
-    <li><a href="my_message.php"><i class="message"></i><span><b>3</b>条消息</span></a></li>
-    <li><a href="shopCart.php"><i class="shopCart"></i><span><b>1</b>件商品</span></a></li>
-    <li><a href="feedback.php"><i class="feedback"></i><span>反馈<samp>(送积分)</samp></span></a></li>
-    <li><a href="http://www.chinachasheng.com" target="_blank"><i class="contact"></i><span>联系</span></a></li>
+    <!--<li><a href="###"><i class="search"></i><span>首页</span></a></li>-->
+    <li><a href="my_message.php"><i class="message"></i><span>消息<b>3</b></span></a></li>
+    <li><a href="shopCart.php"><i class="shopCart"></i><span>购物车<b>1</b></span></a></li>
+    <li><a href="javascript:open_ov_cdd()"><i class="feedback"></i><span>分享</span></a></li>
+    <li><a href="tel:1395000000"><i class="contact"></i><span>联系卖家</span></a></li>
+    <li><a href="zhidian_open.php"><i class="zhidian"></i><span>我要开指店</span></a></li>
   </ul>
 </div>
 <!--主菜单弹出透明背景-->

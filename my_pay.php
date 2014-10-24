@@ -6,7 +6,7 @@
  
   <header class="headBox">
     <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
-    <div class="title">帐号管理</div>
+    <div class="title">我的支付宝</div>
   </header><!--.headBox end//-->
   
   <div class="cst-pay">

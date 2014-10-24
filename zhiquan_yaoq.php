@@ -12,27 +12,36 @@
     <div class="title">选择推荐人</div>
   </header><!--.headBox end//-->
   
+  <div class="open_zhid_step">
+    <div>
+      <span class="old"><i>完成</i></span>
+      <span class="curr"><i>2</i></span>
+      <span><i>3</i></span>
+      <span><i>4</i></span>
+    </div>
+  </div>
+  
   <div class="sdh_member_list">
     <div class="tit">A</div>
     <ul>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z01.jpg"><span>啊达敏</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z01.jpg"><span>啊达敏</span></a></li>
     </ul>
     <div class="tit">B</div>
     <ul>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z02.jpg"><span>不达敏</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z03.jpg"><span>不思密达</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z04.jpg"><span>不崽崽</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z02.jpg"><span>不达敏</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z03.jpg"><span>不思密达</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z04.jpg"><span>不崽崽</span></a></li>
     </ul>
     <div class="tit">C</div>
     <ul>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z02.jpg"><span>成达敏</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z03.jpg"><span>成思密达</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z04.jpg"><span>成崽崽</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z02.jpg"><span>成小崽崽</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z02.jpg"><span>成小达敏</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z03.jpg"><span>成思密达</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z04.jpg"><span>成崽崽</span></a></li>
-      <li><a href="javascript:history.go(-1);"><img src="temp/q_z02.jpg"><span>成小崽崽</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z02.jpg"><span>成达敏</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z03.jpg"><span>成思密达</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z04.jpg"><span>成崽崽</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z02.jpg"><span>成小崽崽</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z02.jpg"><span>成小达敏</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z03.jpg"><span>成思密达</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z04.jpg"><span>成崽崽</span></a></li>
+      <li><a href="zhidian_open_sq.php"><img src="temp/q_z02.jpg"><span>成小崽崽</span></a></li>
     </ul>
   </div>
   

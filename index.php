@@ -5,103 +5,33 @@
 <div class="wrapper">
  
   <header class="headBox">
-    <a href="javascript:(0);" class="lh_btn"><i></i>邀请</a>
-    <div class="title" id="cm-btnd">指帮<img src="images/menu_jt_d.png"></div>
-    <a href="release.php" class="tiwen">发布问题</a>
-    <?php include_once "menu_sdh.php"; ?>
+    <a href="javascript:(0);" class="logo"></a>
+    <a href="javascript:(0);" class="gr_home">个人主页</a>
   </header><!--.headBox end//-->
   
-  <div class="sdh_list">
-    <span class="wen">问</span>
-    <h3>公司财务情况的处里方式</h3>
-    <div class="hd_cont">
-      <img src="temp/q_z01.jpg">
-      <span><b>采姑娘的小蘑菇</b></span>
-      <div class="overflow">
-            <span class="dengji"><i class="vip3"></i></span>
-            <span class="huoyue"><i></i>活跃度：20</span>
-            <span class="time">1月10日 13:18</span>
-          </div>
-      <span><i></i>30指币</span>
-    </div>
-    <p><a href="zhimei_quan_big.php">商务概念的指出是改革的产物，有一个演变的过程：贸易部——商业部、外贸部——内贸部——内贸局——商务部。是内外贸一体化的概念。拼音：shāng wù 英文：Business；Commerce商务的定义</a></p>
-    <ul class="bott_list">
-      <li><a href="javascript:(0);" class="popupM2"><i class="icon01"></i></a></li>
-      <li><a href="javascript:(0);" class="zanM"><i class="icon02"></i>24</a></li>
-      <li><a href="javascript:(0);"><i class="icon03"></i>20</a></li>
-      <li><a href="javascript:open_ov_cdd()"><i class="icon04"></i></a></li>
+  <!--焦点图 begin-->
+  <div id="banner_box" class="shop_swipe">
+    <ul>
+      <li><a href="javascript:(0);"><img src="temp/in_banner.jpg"></a></li>
+      <li><a href="javascript:(0);"><img src="temp/in_banner.jpg"></a></li>
     </ul>
+    <ol><li class="on"></li><li></li></ol>
   </div>
-  <!--.sdh_list end//-->
+  <!--焦点图 end-->
   
-  <div class="sdh_list">
-    <span class="zi">资源对接</span>
-    <h3>公司财务情况的处里方式</h3>
-    <div class="hd_cont">
-      <img src="temp/q_z01.jpg">
-      <span><b>采姑娘的小蘑菇</b></span>
-      <div class="overflow">
-            <span class="dengji"><i class="vip3"></i></span>
-            <span class="huoyue"><i></i>活跃度：20</span>
-            <span class="time">1月10日 13:18</span>
-          </div>
-      <span><i></i>30指币</span>
-    </div>
-    <p><a href="zhimei_quan_big.php">商务概念的指出是改革的产物，有一个演变的过程：贸易部——商业部、外贸部——内贸部——内贸局——商务部。是内外贸一体化的概念。拼音：shāng wù 英文：Business；Commerce商务的定义</a></p>
-    <ul class="bott_list">
-      <li><a href="javascript:(0);" class="popupM2"><i class="icon01"></i></a></li>
-      <li><a href="javascript:(0);" class="zanM"><i class="icon02"></i>24</a></li>
-      <li><a href="javascript:(0);"><i class="icon03"></i>20</a></li>
-      <li><a href="javascript:open_ov_cdd()"><i class="icon04"></i></a></li>
+  <!--公告 begin-->
+  <div class="home_notice">
+    <div class="home_gg"><i></i></div>
+    <ul id="homeNew" class="home_noticTip">
+      <li>ONLY秋装尾品会11月11日正式开启！</li>
+      <li>ONLY秋装尾品会11月11日正式开启！</li>
+      <li>ONLY秋装尾品会11月11日正式开启！</li>
+      <li>ONLY秋装尾品会11月11日正式开启！</li>
     </ul>
   </div>
-  <!--.sdh_list end//-->
+  <!--公告 end//-->
   
-  <div class="sdh_list">
-    <span class="liao">聊</span>
-    <h3>公司财务情况的处里方式</h3>
-    <div class="hd_cont">
-      <img src="temp/q_z01.jpg">
-      <span><b>采姑娘的小蘑菇</b></span>
-      <div class="overflow">
-            <span class="dengji"><i class="vip3"></i></span>
-            <span class="huoyue"><i></i>活跃度：20</span>
-            <span class="time">1月10日 13:18</span>
-          </div>
-      <span><i></i>30指币</span>
-    </div>
-    <p><a href="zhimei_quan_big.php">商务概念的指出是改革的产物，有一个演变的过程：贸易部——商业部、外贸部——内贸部——内贸局——商务部。是内外贸一体化的概念。拼音：shāng wù 英文：Business；Commerce商务的定义</a></p>
-    <ul class="bott_list">
-      <li><a href="javascript:(0);" class="popupM2"><i class="icon01"></i></a></li>
-      <li><a href="javascript:(0);" class="zanM"><i class="icon02"></i>24</a></li>
-      <li><a href="javascript:(0);"><i class="icon03"></i>20</a></li>
-      <li><a href="javascript:open_ov_cdd()"><i class="icon04"></i></a></li>
-    </ul>
-  </div>
-  <!--.sdh_list end//-->
-  
-  <div class="sdh_list">
-    <span class="gao">告</span>
-    <h3>公司财务情况的处里方式</h3>
-    <div class="hd_cont">
-      <img src="temp/q_z01.jpg">
-      <span><b>采姑娘的小蘑菇</b></span>
-      <div class="overflow">
-            <span class="dengji"><i class="vip3"></i></span>
-            <span class="huoyue"><i></i>活跃度：20</span>
-            <span class="time">1月10日 13:18</span>
-          </div>
-      <span><i></i>30指币</span>
-    </div>
-    <p><a href="zhimei_quan_big.php">商务概念的指出是改革的产物，有一个演变的过程：贸易部——商业部、外贸部——内贸部——内贸局——商务部。是内外贸一体化的概念。拼音：shāng wù 英文：Business；Commerce商务的定义</a></p>
-    <ul class="bott_list">
-      <li><a href="javascript:(0);" class="popupM2"><i class="icon01"></i></a></li>
-      <li><a href="javascript:(0);" class="zanM"><i class="icon02"></i>24</a></li>
-      <li><a href="javascript:(0);"><i class="icon03"></i>20</a></li>
-      <li><a href="javascript:open_ov_cdd()"><i class="icon04"></i></a></li>
-    </ul>
-  </div>
-  <!--.sdh_list end//-->
+  <div class="home_pic"><img src="temp/in_04.jpg"></div>
   
   
   <?php include_once "copyright.php"; ?>
@@ -121,5 +51,16 @@
 </div>
 
 <?php include_once "share.php"; ?>
+<script type="text/javascript">
+// 公告
+if(document.getElementById("homeNew")){
+	var scrollup = new ScrollText("homeNew");
+	scrollup.LineHeight = 40;        //单排文字滚动的高度
+	scrollup.Amount = 1;            //注意:子模块(LineHeight)一定要能整除Amount.
+	scrollup.Delay = 10;           //延时
+	scrollup.Start();             //文字自动滚动
+	scrollup.Direction = "up";   //默认设置为文字向上滚动
+}
+</script>
 </body>
 </html>

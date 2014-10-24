@@ -1,5 +1,4 @@
 <?php include_once "header.php"; ?>
-
 <body>
 
 <div class="wrapper">
@@ -27,6 +26,16 @@
     </ul>
   </div>
   
+  <div style=" border-bottom:10px solid #fff;">
+    <div class="my-pzTitle"><a href="shopOrdar4.php"><h3><span>|</span>选择配送方式</h3></a></div>
+  </div>
+  <div class="tihuo_ziti">
+    <p>配送方式：到店自提</p>
+    <p>营业时间：9:00~22:00</p>
+    <p>门店地址：厦门市湖里区仙岳路4666号万达广场万达百货(湖里店)1层</p>
+    <p class="buts"><a href="gps.php">导航到店</a></p>
+  </div>
+  
   <div class="my-pzTitle"><h3><span>|</span>选购的商品</h3></div>
   
   <div class="cst-choose">
@@ -45,7 +54,7 @@
     </div>
   </div>
   
-  <div class="cst-settle">
+  <div class="cst-settle2">
     <label>应付总额：<span class="sp1">￥249.50</span></label><a href="shopOrdar02.php"><span class="sp2">提交订单</span></a>
   </div>
   

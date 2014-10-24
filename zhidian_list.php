@@ -1,8 +1,10 @@
 <?php include_once "header.php"; ?>
 
 <body>
-
-<div class="wrapper">
+<style type="text/css">
+.user_t .ssdp { width:100%; text-align:left; position:relative; left:0; top:5px; height:22px;}
+</style>
+<div class="wrapper" style="padding-bottom:1px;">
  
  
   <header class="headBox">
@@ -17,8 +19,9 @@
       <a href="fr_zhidian.php">
       <div class="head_img"><img src="temp/q_z05.jpg"></div>
       <div class="mzh_con">
-        <div class="h_na"><strong>林木森</strong><span>0005号店</span></div>
+        <div class="h_na"><strong>林木森</strong><!-- <span>0005号店</span> --><i class="ico-q">企</i><i class="ico-m">盟</i></div>
         <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
+        <div class="ssdp">所属：Only湖里万达店</div>
       </div>
       </a>
     </div>
@@ -26,8 +29,9 @@
       <a href="fr_zhidian.php">
       <div class="head_img"><img src="temp/q_z05.jpg"></div>
       <div class="mzh_con">
-        <div class="h_na"><strong>林木森</strong><span>0005号店</span></div>
+        <div class="h_na"><strong>林木森</strong><!-- <span>0005号店</span> --><i class="ico-q">企</i><i class="ico-m0">盟</i></div>
         <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
+        <div class="ssdp">所属：Only湖里万达店</div>
       </div>
       </a>
     </div>
@@ -35,8 +39,9 @@
       <a href="fr_zhidian.php">
       <div class="head_img"><img src="temp/q_z05.jpg"></div>
       <div class="mzh_con">
-        <div class="h_na"><strong>林木森</strong><span>0005号店</span></div>
+        <div class="h_na"><strong>林木森</strong><!-- <span>0005号店</span> --><i class="ico-q">企</i><i class="ico-m0">盟</i></div>
         <div class="h_pl"><span class="i_dj">等级：</span><div class="stars fl"><i style="width:10%;"></i></div></div>
+        <div class="ssdp">所属：Only湖里万达店</div>
       </div>
       </a>
     </div>

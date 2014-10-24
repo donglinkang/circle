@@ -31,23 +31,20 @@
         }
       });
       </script>
-      <!--<div class="icon_con">
-        <a href="comment.php" title="评论"><i class="review_icon"></i></a>
+      <div class="icon_con">
         <a href="javascript:(0);" class="popupM2" title="收藏"><i class="favo_icon"></i></a>
-        <a href="javascript:open_ov_cdd()" title="分享"><i class="share_icon"></i></a>
-        <a href="javascript:(0);" id="popupM1" title="加入指店"><i class="joinZd_icon"></i></a>
-      </div>-->
-      <!--<img src="temp/t_13.jpg">-->
+        <a href="javascript:(0);" id="popupM1" title="加入购物车"><i class="joinZd_icon"></i></a>
+      </div>
     </div>
     <div class="pro_info">
       <p class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</p>
-      <p><span class="price font14">￥249.50&nbsp;+&nbsp;100指币</span><span class="price_old">￥499.00</span></p>
+      <p><span class="price font14">249.50指币</span><span class="price_old">￥499.00</span></p>
       <!--<p class="pdt10"><span class="price">联盟价：￥5000.00</span></p>-->
     </div>
     
     <div class="buy_con">
       <p class="number"><span>数量：</span><span>-</span><input type="text" value="1"><span>+</span></p>
-      <p class="buy"><span><a href="shopCart.php">立即购买</a></span><span><a href="shopCart.php">换购价购买</a></span></p>
+      <p class="buy"><span><a href="shopCart.php">立即换购</a></span></p>
     </div>
     
     <section class="tabbtn">

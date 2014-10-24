@@ -6,7 +6,7 @@
  
   <header class="headBox">
     <a id="androidAppJump" href="javascript:history.go(-1);" class="black"><i></i>返回</a>
-    <div class="title">指&nbsp;&nbsp;帮</div>
+    <div class="title">我的指帮</div>
   </header><!--.headBox end//-->
   
   <section class="my_tabbtn2">

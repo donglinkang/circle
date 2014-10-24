@@ -7,12 +7,13 @@
   <ul class="my_head_list">
     <li><a href="my_info.php"><i></i><img src="temp/notHead.jpg"><span>个人资料</span></a></li>
     <li><a href="my_message.php"><i></i><span>动态消息</span></a></li>
+    <li><a href="shopCart.php"><i></i><span>购物车</span></a></li>
     <li><a href="my_set.php"><i></i><span>设置</span></a></li>
   </ul>
   
   <ul class="my_nav_list">
     <li><a href="javascript:(0);"><i></i><span>个人主页</span></a></li>
-    <li><a href="my_zb.php"><i></i><span>指帮</span><span class="number">9</span></a></li>
+    <li><a href="my_zb.php"><i></i><span>我的指帮</span><span class="number">9</span></a></li>
     <li><a href="my_shop.php"><i></i><span>指店</span></a></li>
     <li><a href="my_user.php"><i></i><span>用户中心</span></a></li>
     <li><a href="my_order.php"><i></i><span>我的交易</span></a></li>

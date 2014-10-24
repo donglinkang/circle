@@ -11,7 +11,7 @@
   
   <section class="my_tabbtn2">
     <ul class="Fadetab">
-      <li class="current"><a href="javascript:void(0)">收藏的指媒</a></li>
+      <li class="current"><a href="javascript:void(0)">收藏的指帮</a></li>
       <li><a href="javascript:void(0)">收藏的产品</a></li>
       <li><a href="javascript:void(0)">收藏的指店</a></li>
     </ul>
@@ -86,7 +86,7 @@
         </ul>
       </div><!--.sdh_list end//-->
     </div>
-    <!--收藏的指媒 end//-->
+    <!--收藏的指帮 end//-->
     
     <div>
       <ul class="shop_prod_list">
@@ -129,11 +129,11 @@
     <div>
       <div class="my_zhid_head margin10">
         <b class="del deleteM"><i></i>删除</b>
-        <div class="head_img"><img src="temp/q_z05.jpg"></div>
+        <div class="head_img"><img src="temp/q_z01.jpg"></div>
         <div class="mzh_con">
-          <div><strong>涂达敏</strong><span>0005号店</span></div>
-          <div><span>等级：</span><div class="stars fl"><i style="width:50%;"></i></div></div>
-          <div><a href="###"><i class="map"></i>厦门万达店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
+          <div><strong>卓一航</strong><span>007号店</span></div>
+          <div><span>等级：</span><div class="stars fl"><i style="width:90%;"></i></div></div>
+          <div><a href="###"><i class="map"></i>厦门SM店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
         </div>
       </div><!--.my_zhid_head end//-->
       
@@ -149,21 +149,21 @@
       
       <div class="my_zhid_head margin10">
         <b class="del deleteM"><i></i>删除</b>
-        <div class="head_img"><img src="temp/q_z05.jpg"></div>
+        <div class="head_img"><img src="temp/q_z02.jpg"></div>
         <div class="mzh_con">
-          <div><strong>涂达敏</strong><span>0005号店</span></div>
-          <div><span>等级：</span><div class="stars fl"><i style="width:50%;"></i></div></div>
-          <div><a href="###"><i class="map"></i>厦门万达店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
+          <div><strong>阿大鸣</strong><span>0002号店</span></div>
+          <div><span>等级：</span><div class="stars fl"><i style="width:80%;"></i></div></div>
+          <div><a href="###"><i class="map"></i>厦门中山路店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
         </div>
       </div><!--.my_zhid_head end//-->
       
       <div class="my_zhid_head margin10">
         <b class="del deleteM"><i></i>删除</b>
-        <div class="head_img"><img src="temp/q_z05.jpg"></div>
+        <div class="head_img"><img src="temp/q_z04.jpg"></div>
         <div class="mzh_con">
-          <div><strong>涂达敏</strong><span>0005号店</span></div>
-          <div><span>等级：</span><div class="stars fl"><i style="width:50%;"></i></div></div>
-          <div><a href="###"><i class="map"></i>厦门万达店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
+          <div><strong>小小朋</strong><span>0001号店</span></div>
+          <div><span>等级：</span><div class="stars fl"><i style="width:100%;"></i></div></div>
+          <div><a href="###"><i class="map"></i>厦门思北店</a><a href="###"><i class="tel"></i>直接拨打</a></div>
         </div>
       </div><!--.my_zhid_head end//-->
       

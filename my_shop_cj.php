@@ -12,7 +12,7 @@
   <ul class="my_finger_cj">
     <li><label>指辑名称</label><input class="ipt" name="" type="text"></li>
     <li><label>指辑简介</label><textarea name="" cols="" rows=""></textarea></li>
-    <li class="buts"><a href="my_shop.php">确定</a></li>
+    <li class="buts"><a href="my_shop_d.php">确定</a></li>
   </ul>
   
   <?php include_once "copyright.php"; ?>

@@ -9,7 +9,7 @@
     <div class="title">充值</div>
   </header><!--.headBox end//-->
  
-  <ul class="creditHd">
+  <ul class="creditHd" style="padding:15px 0;">
     <li style=" font-size:16px;">指币总额：<strong>2341.00</strong></li>
     <li><input class="ipt" name="" type="text" placeholder="输入充值金额"></li>
     <li class="tixian"><a href="javascript:(0);">充值</a></li>

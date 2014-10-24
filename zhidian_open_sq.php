@@ -5,20 +5,27 @@
 <div class="wrapper" style="padding-bottom:1px;">
  
   <header class="headBox">
-    <section class="my_tabbtn">
-      <ul>
-        <li><a href="zhidian.php">指友的店</a></li>
-        <li class="current"><a href="javascript:void(0)">我的指店</a></li>
-      </ul>
-    </section>
+    <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
+    <div class="title">填写资料</div>
   </header><!--.headBox end//-->
   
+  <div class="open_zhid_step">
+    <div>
+      <span class="old"><i>完成</i></span>
+      <span class="old"><i>完成</i></span>
+      <span class="curr"><i>3</i></span>
+      <span><i>4</i></span>
+    </div>
+  </div>
+  
   <ul class="my_finger_cj">
+    <li><label>店铺名称</label><input class="ipt" name="" type="text"></li>
     <li><label>姓名</label><input class="ipt" name="" type="text"></li>
     <li><label>身份证</label><input class="ipt" name="" type="text"></li>
     <li><label>证件上传</label><input class="ipt" name="" type="file"></li>
     <li><label>你的电话</label><input class="ipt" name="" type="text"></li>
-    <li>
+    <li><label>推荐人</label><input class="ipt" name="" type="text"></li>
+    <!--<li>
       <label>请选择</label>
       <section class="open_tabbtn">
         <ul class="Fadetab">
@@ -28,7 +35,7 @@
       </section>
       <div class="Fadecon">
         <ul style="margin-top:15px;">
-          <li><label>推荐人</label><a href="zhiquan_yaoq.php" class="ipt" style=" float:left; border-radius:3px; display:block;"></a></li>
+          <li><label>推荐人</label><input class="ipt" name="" type="text"></li>
         </ul>
         <ul style="margin-top:15px;">
           <li>
@@ -67,7 +74,7 @@
           </li>
         </ul>
       </div>
-    </li>
+    </li>-->
     <li class="buts"><a href="my_zhidian.php">提交申请</a></li>
     <!--<li><label>指辑名称</label><input name="" type="text"></li>
     <li><label>指辑简介</label><textarea name="" cols="" rows=""></textarea></li>-->

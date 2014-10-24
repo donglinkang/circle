@@ -50,7 +50,7 @@
 .zbrw_box .rw_list div a.rw_e{color: #fff; background: #bcbcbc;}
 .zbrw_box .rw_list div a.rw_d{color: #fff; background: #4cc327;}
 
-.rw_yd{background: #fff; margin-top: 10px;}
+.rw_yd{background: #fff; margin:10px 0;}
 .rw_yd .tit{ font-size: 14px; text-align: center; padding: 10px 0 10px 0;}
 .rw_yd ul{ display: table; width: 100%;}
 .rw_yd ul li{ display: table-cell; width: 33%; position: relative;}

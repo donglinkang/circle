@@ -30,7 +30,7 @@
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -48,7 +48,7 @@
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -66,7 +66,7 @@
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -84,7 +84,7 @@
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -101,11 +101,11 @@
         </header>
         <div class="fc"></div>
         <section class="arrow-msg articleLink">
-          <div class="info"><p>赞了你的指媒</p></div>
+          <div class="info"><p>赞了你的指帮</p></div>
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -119,11 +119,11 @@
         </header>
         <div class="fc"></div>
         <section class="arrow-msg articleLink">
-          <div class="info"><p>赞了你的指媒</p></div>
+          <div class="info"><p>赞了你的指帮</p></div>
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -137,11 +137,11 @@
         </header>
         <div class="fc"></div>
         <section class="arrow-msg articleLink">
-          <div class="info"><p>赞了你的指媒</p></div>
+          <div class="info"><p>赞了你的指帮</p></div>
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>
@@ -155,11 +155,11 @@
         </header>
         <div class="fc"></div>
         <section class="arrow-msg articleLink">
-          <div class="info"><p>赞了你的指媒</p></div>
+          <div class="info"><p>赞了你的指帮</p></div>
           <div class="reply_box">
             <div class="aww"><i>◆</i><em>◆</em></div>
             <div class="awshow awshow2">
-              <p>评论我的指媒：商务概念的指出是改革的产物，有一个演变的过程...</p>
+              <p>评论我的指帮：商务概念的指出是改革的产物，有一个演变的过程...</p>
             </div>
           </div>
         </section>

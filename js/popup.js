@@ -11,7 +11,7 @@ jQuery(document).ready(function() {
         attach: jQuery('#popupM1'),
         height: 100,
         title: '提示',
-        content: '<div style="line-height:30px; font-size:14px;">成功加入指店</div>'
+        content: '<div style="line-height:30px; font-size:14px;">成功加入购物车</div>'
     });
 	
 	new jBox('Modal', {
@@ -31,8 +31,8 @@ jQuery(document).ready(function() {
 	new jBox('Modal', {
         attach: jQuery('#popupM4'),
         height: 100,
-        title: '提示',
-        content: '<div style="line-height:30px; font-size:14px;">签到成功，积分+20</div>'
+        title: '签到',
+        content: '<div style="line-height:30px; font-size:14px;">签到成功，指币+20</div>'
     });
 	
 	new jBox('Modal', {
@@ -43,10 +43,10 @@ jQuery(document).ready(function() {
     });
 	
 	new jBox('Modal', {
-        attach: jQuery('.xuanze_curr'),
+        attach: jQuery('.xuanzeTsM'),
         height: 140,
         title: '提示',
-        content: '<div style="line-height:30px; font-size:14px;">目标选择成功！<br/><a href="my_mubiao.php" style=" height:30px; line-height:30px; text-align:center; border-radius:3px; font-size:12px; color:#fff; background:#f86b03; display:block; margin-top:10px;">确定</a></div>'
+        content: '<div style="line-height:30px; font-size:14px;">目标选择成功！<br/><a href="my_mubiao.php" class="popupBut">确定</a></div>'
     });
 	
 	new jBox('Modal', {
@@ -138,6 +138,90 @@ jQuery(document).ready(function() {
         height: 140,
         title: '提示',
         content: '<div style="line-height:30px; font-size:14px;">确定删除！<br/><a href="my_share.php" style=" height:30px; line-height:30px; text-align:center; border-radius:3px; font-size:12px; color:#fff; background:#f86b03; display:inline-block; margin:10px 10px 0 0; padding:0 20px;">确定</a><a href="my_share.php" style=" height:30px; line-height:30px; text-align:center; border-radius:3px; font-size:12px; color:#fff; background:#f86b03; display:inline-block; margin-top:10px; padding:0 20px;">取消</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM1'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP才可以聊天哦！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM2'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP才可以加好友哦！<br/><a href=javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM3'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP赚指币换商品！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM4'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP做任务赚指币！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM5'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP才可以参与活动哦！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM6'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP享受更多换购！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM7'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP才可以与TA交流哦！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.fxTsM8'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">下载APP查看TA的更多信息！<br/><a href="javascript:(0);" class="popupBut">下载</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.bianjiM'),
+        height: 130,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">当前指辑所属<span style="color:#e13e3e; padding-left:5px;">热卖精品</span><br/>不可选择其它指辑商品！</div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.RwFbzb'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">任务接受成功！<br/><a href="javascript:(0);" class="popupBut">去发布</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.RwZbhf'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">任务接受成功！<br/><a href="javascript:(0);" class="popupBut">去回复</a></div>'
+    });
+	
+	new jBox('Modal', {
+        attach: jQuery('.RwCgdd'),
+        height: 140,
+        title: '提示',
+        content: '<div style="line-height:30px; font-size:14px;">任务接受成功！<br/><a href="zhidian.php" class="popupBut">去购物吧！</a></div>'
     });
 
 

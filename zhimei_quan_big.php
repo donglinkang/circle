@@ -6,7 +6,7 @@
  
   <header class="headBox">
     <a href="javascript:history.go(-1);" class="black"><i></i>返回</a>
-    <div class="title">指媒详情</div>
+    <div class="title">指帮详情</div>
   </header><!--.headBox end//-->
   
   

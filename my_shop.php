@@ -1,207 +1,55 @@
 <?php include_once "header.php"; ?>
+<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css" />
 
 <body>
 
-<div class="wrapper" style="padding-bottom:1px;">
+<div class="wrapper mzd_box" style="padding-bottom:1px;">
  
   <header class="headBox">
     <a id="androidAppJump" href="javascript:history.go(-1);" class="black"><i></i>返回</a>
-    <div class="title">指&nbsp;&nbsp;店</div>
-    <a href="my_income.php" class="buts">我的收入</a>
+    <div class="title">指店管理</div>
+    <?php //include_once "menu_my.php"; ?>
   </header><!--.headBox end//-->
+
   
-  <section class="my_order_tabbtn">
-    <ul class="Fadetab">
-      <li class="current"><a href="javascript:void(0)">待付款</a></li>
-      <li class=""><a href="javascript:void(0)">已付款</a></li>
-      <li class=""><a href="javascript:void(0)">已收货</a></li>
-    </ul>
-  </section>
-  
-  <section class="Fadecon">
-    <div style="margin-bottom:10px;">
-      <div class="ddTitle"><i></i>Only厦门万达店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>待买家付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">待付款</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>待买家付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">待付款</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>待买家付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">待付款</a></div>
-          </div>
-        </li>
-      </ul>
-      <div class="ddTitle"><i></i>OnlySM店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>待买家付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">待付款</a></div>
-          </div>
-        </li>
-      </ul>
-    </div><!--待付款 end-->
+  <div class="my_zhid_head">
+    <div class="ssdp"><a href="my_income.php" class="zdjj">我的收益：￥48500</a></div>
+    <div class="head_img"><img src="temp/q_z05.jpg"></div>
+    <div class="mzh_con">
+      <div>
+        <strong>涂达敏的指店</strong>
+        <div><span class="dengjiBox"><b class="vip3"></b></span><!-- <span>0005号店</span> --><i class="ico-q">企</i><i class="ico-m0">盟</i><!-- <i class="ico-m">盟</i> --></div>
+      </div>
+      <!--<div><span class="i_dj">等级：</span><div class="stars fl"><i style="width:50%;"></i></div></div>-->
+      <!-- <div><a href="shop_map.php"><i class="map"></i>厦门万达店</a><a href="tel:05925256528"><i class="tel"></i>拨打电话</a></div> -->
+    </div>
+  </div>
+
+
+
+  <div class="mzd_memg">
+    <dl>
+      <dt><a href="my_shop_d.php"><em>我的指辑</em><span>查看所有专辑</span></a></dt>
+      <dd><a href="my_shop_new.php"><em>新品上架</em><span></span></a></dd>
+      <dd><a href="my_shop_njp.php"><em>热卖精品</em><span></span></a></dd>
+      <dd><a href="my_shop_ng.php"><em>内购福利</em><span></span></a></dd>
+      <dd><a href="my_shop_lm.php"><em>联盟专辑</em><span></span></a></dd>
+    </dl>
     
-    <div style="margin-bottom:10px;">
-      <div class="ddTitle"><i></i>Only厦门万达店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">已付款</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">已付款</a></div>
-          </div>
-        </li>
+    <dl>
+      <dt><a href="my_shop_dd2.php"><em>指店订单</em><span>查看全部订单</span></a></dt>
+      <ul>
+        <li><a href="my_shop_dd.php"><i class="icon-money"></i><span>待付款</span></a></li>
+        <li><a href="my_shop_dd.php"><i class="icon-gift"></i><span>待发货</span></a></li>
+        <li><a href="my_shop_dd.php"><i class="icon-truck"></i><span>待收货</span></a></li>
+        <li><a href="my_shop_dd.php"><i class="icon-retweet"></i><span>退款</span></a></li>
       </ul>
-      <div class="ddTitle"><i></i>OnlySM店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">已付款</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已付款</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="fukuan">已付款</a></div>
-          </div>
-        </li>
-      </ul>
-    </div><!--已付款 end-->
-    
-    <div style="margin-bottom:10px;">
-      <div class="ddTitle"><i></i>Only厦门万达店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已收货</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="guanbi">交易完成</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已收货</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="guanbi">交易完成</a></div>
-          </div>
-        </li>
-      </ul>
-      <div class="ddTitle"><i></i>OnlySM店</div>
-      <ul class="sub-prodList">
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已收货</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="guanbi">交易完成</a></div>
-          </div>
-        </li>
-        <li>
-          <div class="pic">
-            <a href="javascript:(0);">
-              <span>买家已收货</span>
-              <img src="temp/jlb_pr5.jpg">
-            </a>
-          </div>
-          <div class="rInfo">
-            <h1 class="title">ONLY秋装新品修身短款金属拉链西服外套上衣女T|113333006</h1>
-            <div class="price"><span class="fl">共1件商品</span><span class="fr">￥560.00</span></div>
-            <div class="ddBut"><a href="javascript:(0);" class="guanbi">交易完成</a></div>
-          </div>
-        </li>
-      </ul>
-    </div><!--已收货 end-->
-  </section>
+    </dl>
+  </div>
+
+
+
+
   
   <?php include_once "copyright.php"; ?>
   
